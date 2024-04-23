@@ -1,0 +1,1 @@
+#Elabore um programa em Python que implemente uma calculadora com as funções desomar, subtrair, multiplicar e dividir. O programa deverá solicitar ao usuário os doisvalores, e perguntar qual a operação pretendida (‘+’, ‘-‘ , ‘*’ ou ‘/’ ) e a seguir calcular emostrar o resultado
